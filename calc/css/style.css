@@ -1,0 +1,40 @@
+h1{
+	color: black;
+	margin-left: 250px;
+}
+
+#calcform{
+	margin-left: 230px;
+	background: grey;
+	width: 395px;
+	border-radius: 10px;
+}
+
+.display{
+	width: 375px;
+	height: 75px;
+	font-size: 25px;
+	text-align: center; 
+	background: #1f80c9;
+}
+
+input{
+	width: 75px;
+	height: 50px; 
+	font-size: 25px;
+	border-radius: 10px;
+	margin: 10px;
+	background: #000;
+	color: #fff;
+	border-style: none;
+}
+
+input:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+input:active {
+  background-color: red;
+    
+}

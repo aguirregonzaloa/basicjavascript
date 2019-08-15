@@ -1,0 +1,37 @@
+body{
+	background: lightblue;
+}
+
+#wrapper{
+	width: 650px;
+	height: 350px;
+	background: yellow;
+	padding-top: 20px;
+	padding-left: 220px;
+}
+
+#number1,#number2{
+	border: 5px solid red;
+	font-size: 45px;
+	font-weight: bold;
+	padding: 50px;
+}
+
+#symbol{
+	font-size: 45px;
+	font-weight: bold;
+}
+
+#input{
+	border: 2px solid blue;
+	padding: 10px;
+}
+
+#btn{
+	background: green;
+	color:#fff;
+	padding: 10px;
+	width:100%;
+	border: none;
+	
+}

@@ -1,0 +1,28 @@
+body{
+
+}
+
+label{
+	color: white;
+}
+
+.calcloan{
+	background: black;	
+	padding-top: 35px;
+	padding-bottom: 35px;
+	padding-left: 135px;
+	padding-right: 55px;
+	margin-top: 150px;
+	margin-right: 250px;
+	margin-left: 150px;
+	margin-bottom: 50px;
+}
+
+#result{
+	color: white;
+	font-size: 24px;
+}
+
+h1{
+	color: white;
+}

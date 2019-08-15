@@ -1,0 +1,25 @@
+div{
+	background: #03e;
+	height: 300px;
+	width: 400px;
+	margin:50px;
+	padding:25px;
+	border-radius: 25px;
+}
+
+#btn{
+	background: red;
+	font-size: 24px;
+	border: none;
+}
+
+p{
+	font-size: 24px;
+}
+
+input{
+	float: right;
+	clear: both;
+	text-align: center;
+	
+}
